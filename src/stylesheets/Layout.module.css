@@ -1,0 +1,77 @@
+.layout {
+	width: 100vw;
+	text-align: center;
+	margin: auto;
+	color: grey;
+}
+
+.contain {
+	display: inline-flex;
+}
+
+.ac {
+	border: 2px solid #0059b3;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 0 20px 0 0;
+	cursor: pointer;
+	color: #0059b3;
+}
+
+.a {
+	border: 1px solid #888;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 0 20px 0 0;
+	cursor: pointer;
+}
+
+.img {	
+	filter: invert(.9) sepia(1) saturate(3) hue-rotate(170deg);
+}
+
+.h {
+	border: 1px solid #888;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 0 0 0 20px;
+	cursor: pointer;
+}
+
+.hc {
+	border: 2px solid #0059b3;
+	border-radius: 10px;
+	padding: 30px;
+	margin: 0 0 0 20px;
+	cursor: pointer;
+	color: #0059b3
+}
+
+.btn {
+	margin-top: 30px;
+}
+
+.btn1 {
+	background: white;
+	border: 1px solid #888;
+	padding: 10px 30px;
+	margin: 0 20px 0 0;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.btn2 {
+	border: 1px solid #888;
+	background: blue;
+	color: white;
+	padding: 10px 30px;
+	background: #0059b3;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.icon {
+	position: absolute;
+	margin: -20px auto;
+	display: inline-grid;
+}

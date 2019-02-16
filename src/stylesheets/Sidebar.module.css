@@ -1,0 +1,7 @@
+.side {
+	width: 15%;
+	height: 100vh;
+	box-shadow: 1px 0 5px -2px #888;
+	padding-left: 10px;
+	padding-top: 10px;
+}

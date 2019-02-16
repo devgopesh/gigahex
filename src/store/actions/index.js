@@ -1,0 +1,1 @@
+export { accomodationType } from './layout.js'
